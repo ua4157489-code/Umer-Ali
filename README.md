@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
+<h3 align="center">Ethical Hacker & Security Expert</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ua4157489-code&label=Profile%20views&color=0e75b6&style=flat" alt="ua4157489-code" /> </p>
-https://www.pwc.nl/en/topics/blogs/cyber-security-is-invisible-foundation-of-modern-organisation.html
+
 - 🔭 I’m currently working on [loud & Cybersecurity Projects (Python-based)](https://github.com/ua4157489-code)
 
 - 🌱 I’m currently learning **Diploma in Cloud Cyber Security**

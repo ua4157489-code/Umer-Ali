@@ -1,4 +1,4 @@
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Umer.gif?raw=true)
+
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
 <h3 align="center">Ethical Hacker & Security Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

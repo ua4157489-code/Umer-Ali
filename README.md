@@ -11,7 +11,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 👨‍💻 All of my projects are available at [GitHub: https://github.com/ua4157489-code]
 
-- 💬 Ask me about **Cybersecurity fundamentals, Cloud Cyber Security concepts, Network security & TCP/IP Port scanning & service detection Password security & authentication, Python scripting for cybersecurity. Basic threat detection & attack surfaces.**
+- 💬 Skills
+- **Linux Fundamentals**
+- **Networking Basics**
+- **Operating system(Linux,Window)**
+- **Python & Bash**
+- **Hacking 101**
+- **SIEM**
+- **AWS,Azure**
+- **PCI DSS**
+- **ISO 27001,27017, 27018**
+- **HIPAA**
+- **CISSP Prep**
+- **Threat Intelligence**
+- **Risk Assesment**
+- **Vulnerability Assessment**
+- **Incident response**
+- **Enumeration & Reconnaissance**
 
 - 📫 How to reach me **ua4157489@gmail.com**
 

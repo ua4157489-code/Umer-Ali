@@ -3,10 +3,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ua4157489-code&label=Profile%20views&color=0e75b6&style=flat" alt="ua4157489-code" /> </p>
 
- I’m currently working on Cloud & Cybersecurity Projects (Python-based)
- I’m currently learning **Diploma in Cloud Cyber Security**
- I’m looking for help with **Advanced Cloud Security & Automation Projects**
- All of my projects are available at [GitHub: https://github.com/ua4157489-code]
+ I am currently pursuing a Diploma in Cloud Cyber Security and actively working on Python-based projects related to cloud security and cybersecurity automation.
+
+My areas of interest include:
+
+->Cloud Security
+->Security Automation with Python
+->Vulnerability Assessment
+
+Threat Detection and Security Monitoring
 
  Skills--->>
 - **Linux Fundamentals**

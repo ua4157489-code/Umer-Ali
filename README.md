@@ -3,15 +3,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ua4157489-code&label=Profile%20views&color=0e75b6&style=flat" alt="ua4157489-code" /> </p>
 
-- 🔭 I’m currently working on Cloud & Cybersecurity Projects (Python-based)
+ I’m currently working on Cloud & Cybersecurity Projects (Python-based)
+ I’m currently learning **Diploma in Cloud Cyber Security**
+ I’m looking for help with **Advanced Cloud Security & Automation Projects**
+ All of my projects are available at [GitHub: https://github.com/ua4157489-code]
 
-- 🌱 I’m currently learning **Diploma in Cloud Cyber Security**
-
-- 🤝 I’m looking for help with **Advanced Cloud Security & Automation Projects**
-
-- 👨‍💻 All of my projects are available at [GitHub: https://github.com/ua4157489-code]
-
-- 💬 Skills
+ Skills--->>
 - **Linux Fundamentals**
 - **Networking Basics**
 - **Operating system(Linux,Window)**
@@ -29,9 +26,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - **Incident response**
 - **Enumeration & Reconnaissance**
 
-- 📫 How to reach me **ua4157489@gmail.com**
-
-- ⚡ Fun fact **I enjoy breaking things ethically to learn how to secure them.**
+-How to reach me **ua4157489@gmail.com**📫 
 
 
 

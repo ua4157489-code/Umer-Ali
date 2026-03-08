@@ -4,12 +4,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ua4157489-code&label=Profile%20views&color=0e75b6&style=flat" alt="ua4157489-code" /> </p>
 
  I am currently pursuing a Diploma in Cloud Cyber Security and actively working on Python-based projects related to cloud security and cybersecurity automation.
+ 
+ Through hands-on projects, I aim to strengthen my understanding of threat detection, vulnerability management, and secure cloud architecture. I am particularly interested in building automation tools that enhance security monitoring and defense mechanisms in cloud environments.
 
-My areas of interest include:
-
-->Cloud Security
-->Security Automation with Python
-->Vulnerability Assessment
+ You can explore my work and ongoing projects here:
+GitHub:
+https://github.com/ua4157489-code
 
 Threat Detection and Security Monitoring
 

@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Umer Ali</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<img width="1910" height="965" alt="Screenshot from 2026-03-08 21-19-08" src="https://github.com/user-attachments/assets/f3887805-8440-4cef-b4ca-9ada3eb6d807" />
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ua4157489-code&label=Profile%20views&color=0e75b6&style=flat" alt="ua4157489-code" /> </p>
 
